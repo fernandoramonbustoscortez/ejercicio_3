@@ -1,0 +1,8 @@
+.A{
+    initial-value: none;
+    color: green;
+    text-decoration:none;
+}
+.A:hover{
+    color:red;
+}
